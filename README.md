@@ -1,0 +1,1 @@
+The job portal app features two modules: one for job seekers and the other for companies. Users can browse and apply for job listings from companies. Implementation uses HTML, CSS, JS for the interface, and PHP and MySQL to store and manage job seeker and company data.

@@ -36,4 +36,4 @@ Administrators can manage all aspects of the platform:
 ## 🚀 **Setup Instructions**
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/username/JobPortal.git
+   git clone https://github.com/AltinPajaziti/Job-Portal.git
